@@ -3,12 +3,13 @@ module.exports = {
     title: `Sukant's Blog`,
     author: {
       name: `Sukant Arora`,
-      summary: `who lives and works in Bangalore building useful things.`,
+      summary: `who lives and works in Bangalore building stuff.`,
     },
     description: `A temp blog of Sukant.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kant1612`,
+      github: `sukant16`,
     },
   },
   plugins: [
